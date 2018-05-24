@@ -1,3 +1,14 @@
 page-home {
 
+    .ion-canvas{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        height: 60% !important;
+        canvas{
+            height: 100% !important;
+            width: 100% !important;
+            
+        }
+    }
 }
